@@ -1,0 +1,1 @@
+# append each train's info tuple of a given line to greater list
